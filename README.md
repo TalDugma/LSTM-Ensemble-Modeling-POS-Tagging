@@ -1,1 +1,2 @@
 The repository encompasses a Natural Language Processing project centered on a POS tagging task. It features an implemented ensemble modeling approach employing LSTM and KNN. Furthermore, the repository contains implementations of a Feedforward Neural Network (FFN) and LSTM for the same task.
+![image](https://github.com/TalDugma/LSTM-Ensemble-Modeling-POS-Tagging/assets/154086680/7efccd1f-8347-4e8e-a0a4-5e28abdb603a)
