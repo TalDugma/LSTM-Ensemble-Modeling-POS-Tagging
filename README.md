@@ -1,2 +1,1 @@
-Repository contains a project in Natural Language Processing- a POS tagging task, where we implemted ensemble modeling of LSTM and KNN.
-Repoistory also contains a FFN and LSTM for the same task. 
+The repository encompasses a Natural Language Processing project centered on a POS tagging task. It features an implemented ensemble modeling approach employing LSTM and KNN. Furthermore, the repository contains implementations of a Feedforward Neural Network (FFN) and LSTM for the same task.
